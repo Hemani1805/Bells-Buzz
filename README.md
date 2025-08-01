@@ -1,5 +1,5 @@
-<img height="1202" alt="frame (3)" src=":https//raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(92).PNG" />
-<img src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(92).PNG" height="400" width="600" alt="example" />
+
+<img src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(92).png" height="400" width="600" alt="frame(3)" />
 
 
 # eth mood?
