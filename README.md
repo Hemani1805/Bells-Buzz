@@ -47,10 +47,10 @@ https://Hemani1805.github.io/Bells-Buzz/
 
 ### Project Documentation
 For Software:
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(92).png" />
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(93).png" />
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(94).png" />
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(95).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(92).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(93).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(94).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(95).png" />
 
 
 # Diagrams
