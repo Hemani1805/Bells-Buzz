@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(92).png" />
 
 
 # eth mood?
@@ -32,19 +32,13 @@ And ending with a "personal mood potion" that's completely useless (and proud of
 ### Technologies/Components Used
 For Software:
 - html, css, javascript
-- none
-- none
 - VS Code, Git & Github, ChatGPT, Google AI studio, Web Browser
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
 git clone https://github.com/Hemani1805/Bells-Buzz.git
+
 cd Bells-Buzz
 
 # Run
@@ -52,31 +46,15 @@ https://Hemani1805.github.io/Bells-Buzz/
 
 ### Project Documentation
 For Software:
-
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(92).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(93).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(94).png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Hemani1805/Bells-Buzz/blob/main/Screenshot(95).png" />
 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -87,9 +65,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Hemani R: Ideation, html
+- Reenu Joshy: css, javascript
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
