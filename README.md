@@ -32,8 +32,6 @@ For Software:
 - html, css, javascript
 - VS Code, Git & Github, ChatGPT, Google AI studio, Web Browser
 
-### Implementation
-For Software:
 # Installation
 git clone https://github.com/Hemani1805/Bells-Buzz.git
 
