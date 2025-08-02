@@ -53,18 +53,6 @@ For Software:
 <img width="3188" height="1202" alt="frame (3)" src="https://raw.githubusercontent.com/Hemani1805/Bells-Buzz/main/Screenshot%20(95).png" />
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
 - Hemani R: Ideation, html
 - Reenu Joshy: css, javascript
